@@ -1,1 +1,29 @@
 
+.card {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/todolistbg.png");
+    background-size: cover;
+    height: 100vh;
+    width: 90vw;
+    text-align: center;
+    color: white;
+}
+
+.read-heading {
+    text-align: left;
+}
+
+.description {
+    text-align: left;
+}
+
+.p3 {
+    text-decoration: underline;
+}
+
+.button {
+    background-color: orange;
+    height: 25px;
+    width: 50px;
+    border-width: 2px;
+    border-color: black;
+}
